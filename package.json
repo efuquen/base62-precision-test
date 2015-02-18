@@ -1,0 +1,13 @@
+{
+  "name": "base62-precision-test",
+  "version": "0.1.0",
+  "description": "A simple test to see inaccuracies in base62 vs allbases",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "base62": "1.0.0",
+    "allbases": "0.3.0"
+  }
+}
